@@ -1,0 +1,30 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment files
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# OS files
+*.bak
